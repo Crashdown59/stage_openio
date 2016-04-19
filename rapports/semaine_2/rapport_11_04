@@ -1,0 +1,31 @@
+matin :
+
+commencement des tests unitaire pour le cache
+
+après-midi :
+
+montrer le travail a jean francois :
+
+probleme dans l'implémentation du cache :
+
+les mutex actuellement pouvait faire des read de manière simultanée et un write, ce qui pouvait poser problème.
+
+imaginons un programme ou deux lectures sont fait :
+
+
+A
+B
+
+
+une écriture C est fait sur la valeur de A apres A mais avant B
+
+Normalement A = X
+	    B = valeur mis dans C
+
+si les paquets sont envoyés sur le réseau, l'ordre n'est pas nécéssairement le bon, on peut bien recevoir l'écriture C apres A et B, ou d'autres traitement.
+
+
+Il faut donc faire le traitement de cache dans la fonction en elle même, et pas a l'extérieur
+
+voici ce que j'ai fait l'après midi
+	    

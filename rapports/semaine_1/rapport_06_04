@@ -1,0 +1,14 @@
+matin : analyse des paquets capturés par tcpdump afin d'analyser les différents paquets recus
+
+apres midi :
+petite réunion pour expliquer ce que j'ai compris de l'application.
+
+
+Travail suivant :
+
+Un cache a été developpé par un employé de l'entreprise.
+
+Actuellement, tout les cache de l'application sont en local. Afin de pouvoir éventuellement passer sur d'autres solutions comme redis ou encore memcached, le proxy doit être modifié pour ajouter le cache développé par l'application.
+
+ma mission est donc de modifier le code existant pour ajouter le cache, d'abord dans des cache "minimes" puis dans des cache plus important, comme "resolv"
+

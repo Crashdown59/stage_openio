@@ -1,0 +1,14 @@
+RAPPORT travail 04/04
+
+Prise en main de la suite logicielle openIO, notamment du python
+
+debuggage pour faire tourner l'application
+
+sujet donné par mon tuteur pour mercredi :
+
+1/ Prendre core/oio_sds.h
+2/ s'en servir pour: créer un container, puis un contenu, lister les contenus du container, télécharger le contenu, détruire le contenu.
+3/ comprendre les interactions entre le client et les différents services
+4/ Me présenter le résultat mercredi matin :)
+
+le travail se continuera dans la journée de demain :)

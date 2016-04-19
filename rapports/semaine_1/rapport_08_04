@@ -1,0 +1,13 @@
+matin :
+      - Mise a jour du projet sur la release 2.0 sur le git (apprentissage) 
+
+matin + après midi :
+      deboguage de l'implémentation de cache
+      difficultés :
+      		  - quelques erreurs d'inatention
+		  - Chaque variable dans une fonction doit être reinitialisée a NULL a chaque fois !!!!!!!!!!
+		  - quelques petits ajouts basiques :)
+
+
+
+Travail : faire des tests fonctionnels à partir de l'exemple donné

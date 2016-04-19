@@ -1,0 +1,20 @@
+Compte rendu du Vendredi 01/04 :
+
+Installation de machine :
+
+- opensuse
+
+installation de la VM de travail :
+
+- debian (installation refait 3 fois a cause d'un problème)
+
+prise en main de la solution openIO :
+
+chaine de compilation, installation des dépendences .
+
+mise en place de l'arborescence de travail, insister sur la propreté du code
+
+séparer les builds des sources de travail, afin de ne pas pourrir le git
+
+a la fin de la journée, la commande oio-reset fonctionnait
+

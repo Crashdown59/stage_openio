@@ -1,0 +1,9 @@
+?????
+
+matin : apprendre a fusionner les commits ensemble avec git rebase (sur git)
+
+cache/cache-redis :
+
+implémentation d'un temps d'expiration et quelques modifications
+
+merge avec les nouvelles modification du projet, notamment de l'implementation du lru_tree

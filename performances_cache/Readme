@@ -1,0 +1,20 @@
+Author : Blanquart Julien
+
+
+Mesures of the new cache implementation in the oio-sds suite
+
+
+repertory
+|
+|
+|-------- awk_files : files to make the treatment of journal file
+|
+|-------- gnuplot_settings : settings to generate the curves
+|
+|-------- results : the results for each cache for put and get operation
+|
+|-------- mesures : for each operation, each files contains the logs
+|
+|-------- sources : contains a script to calculate the average, min and max
+
+// TODO : make a Makefile to automatize the generation of the curves

@@ -1,0 +1,18 @@
+matin :
+
+cache : implementation d'une fonction de cleanup
+
+cache/lru : l'implémentation n'était pas faite, je viens de la faire
+
+cache/redis : implementation de la prise en compte de l'expiration dans le put
+
+
+après midi :
+
+deboguage
+
+tests de performances des fonctions de caches avec les différents caches implémentés
+
+
+
+parler avec jean-francois : la conf du cache devra être fait avec yaml
