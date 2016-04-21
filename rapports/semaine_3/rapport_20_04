@@ -1,0 +1,15 @@
+matin + après midi :
+
+développement de la configuration par yaml
+
+difficultés :
+
+trouver le paquet correspondant a libyaml sur CmakeLists :
+
+pour pouvoir trouver les paquets correspondant, utiliser :
+
+dpkg-query -L <packet>
+
+pkg-config --libs --cflags yaml-0.1
+
+demain : debug du code fait pour la configuration de yaml
