@@ -1,0 +1,5 @@
+matin : fin du débogage
+
+(du a l'indication d'un mauvais pointeur pour les lru_tree + certaines erreur idiotes)
+
+après-midi : début d'implémentation du nouveau cache sur le resolver
