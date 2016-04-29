@@ -1,0 +1,3 @@
+matin : fin de correction des différents leak mémoire
+
+après midi : début d'implémentation du nouveau cache sur la push_queue
